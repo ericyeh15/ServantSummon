@@ -1,0 +1,29 @@
+
+{
+    "forge_marker":1,
+    "defaults":{
+        "model":"cube_all"
+    },
+    "variants":{
+        "size":{
+            "large":{
+                "textures":{
+                    "all":"servantsummon:blocks/jewelry_ore_l"
+                }
+            },
+            
+            "mid":{
+                "textures":{
+                    "all":"servantsummon:blocks/jewelry_ore_m"
+                }
+            },
+            
+            "small":{
+                "textures":{
+                    "all":"servantsummon:blocks/jewelry_ore_s"
+                }
+            }
+        }
+    }
+
+}
